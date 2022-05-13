@@ -1,0 +1,73 @@
+body{
+	background-color: #315290;
+	padding: 200px;
+	font-family: 'Questrial', sans-serif;
+}
+
+h1{
+	color : white;
+	text-align: center;
+
+}
+
+
+img {
+	width: 300px;
+	height: 300px;
+	object-fit: cover;
+}
+
+.big-size {
+	width: 600px;
+	height:600px;
+	object-fit:cover;
+}
+
+.small-size{
+	width: 30%;
+	height:300px;
+	object-fit: cover;
+}
+
+
+.elements-center{
+	text-align: center;
+}
+
+div {
+	
+	background-color: white;
+	padding-right: 10px
+	padding-left: 10px;
+	border: 5px solid #320A28;
+	margin: 50px;
+}
+
+.border{
+	border: 2px solid #320A28;
+}
+.elements-aligned {
+	display: flex;
+	justify-content: space-around;
+}
+
+
+.navigation-aligned{
+	display: flex;
+	justify-content: space-around;
+	padding: 30px;
+}
+
+a {
+	color: #315290;
+	text-decoration: none;
+}
+
+a:hover{
+	color: pink;
+	font-size: 25px
+}
+
+
+
+
